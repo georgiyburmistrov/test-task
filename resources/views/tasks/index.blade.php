@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('title')
+    Просмотр и добавление задач
+@endsection
 @section('content')
 
     <div class="panel-body">
